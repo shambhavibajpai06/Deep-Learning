@@ -1,0 +1,3422 @@
+{
+    "https://bcl.wikipedia.org": {
+        "depth": 0,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 7.55,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 12.05,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.22,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://bew.wikipedia.org": {
+        "depth": 1,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 12.28,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 11.21,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.34,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://bi.wikipedia.org": {
+        "depth": 1,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 11.56,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 10.53,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.35,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://bh.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 10.89,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 11.25,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.19,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://br.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 11.45,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 8.41,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.33,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://be-tarask.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 8.75,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 13.22,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.2,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://bo.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 13.43,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 10.46,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.35,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://bs.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 10.82,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 8.97,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.18,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://bn.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 9.16,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 11.54,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.31,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://bjn.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 11.86,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 12.21,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.42,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://bug.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 12.67,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 9.63,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.3,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://cdo.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 9.94,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 9.31,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.28,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ceb.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 9.59,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 8.77,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.26,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ce.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 9.03,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 9.62,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.32,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://crh.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 9.95,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 8.81,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.67,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ca.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 9.49,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 13.61,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.35,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ckb.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 13.98,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 12.53,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.34,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://en.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 12.88,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 6.73,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.41,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://eml.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 7.15,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 7.61,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.3,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://cs.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 7.92,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 10.52,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.31,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://diq.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 10.83,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 8.84,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.16,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://de.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 9.0,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 9.25,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.24,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://es.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 9.5,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 7.84,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.29,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://da.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 8.13,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 10.57,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.44,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://cy.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 11.02,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 11.28,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.37,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://et.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 11.66,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 8.52,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.35,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://cv.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 8.88,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 12.39,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.27,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://dag.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 12.66,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 11.77,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.34,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://el.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 12.12,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 11.23,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.28,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://eo.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 11.52,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 10.74,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.38,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://eu.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 11.13,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 10.01,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.45,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://fi.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 10.47,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 10.13,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.51,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://frr.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 10.65,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 6.43,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.44,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://fa.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 6.88,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 11.91,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.36,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://fo.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 12.28,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 10.75,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.46,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ff.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 11.22,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 12.47,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.39,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://fr.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 12.87,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 9.28,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.37,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://frp.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 9.65,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 9.16,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.48,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://he.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 9.65,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 5.95,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.48,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://hi.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 6.44,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 6.08,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.47,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://glk.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 6.56,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 9.41,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.34,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://hif.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 9.75,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 6.64,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.36,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://fy.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 7.03,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 11.31,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.28,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://gl.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 11.6,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 10.84,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.14,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://gor.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 10.99,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 9.82,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.26,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://gd.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 10.09,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 11.56,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.26,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://gn.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 11.83,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 11.22,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.3,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ha.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 11.53,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 10.43,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.34,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://hak.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 10.78,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 10.43,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.29,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ga.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 10.73,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 13.47,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.35,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://gu.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 13.83,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 11.83,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.38,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://hyw.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 12.26,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 6.46,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://hsb.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 6.49,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 8.18,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://hy.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 8.19,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 6.91,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://hu.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 6.93,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 7.36,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ht.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 7.37,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 7.94,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ia.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 7.95,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 6.23,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://hr.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 6.25,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 9.65,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.38,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://id.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 10.03,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 6.22,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.35,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ie.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 6.58,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 6.54,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ig.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 6.56,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 6.06,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://kk.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 6.07,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.35,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://kaa.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.37,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.2,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://km.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.22,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.36,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ilo.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.38,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 5.74,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ka.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 5.75,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.59,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://kbd.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.61,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.94,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://jv.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.95,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 4.02,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://kn.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 4.03,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.68,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://io.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.7,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 5.77,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://la.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 5.79,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.6,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://is.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.61,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 5.75,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ku.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 5.76,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.81,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ky.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.82,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.74,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ko.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.75,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.88,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.21,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://it.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.1,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 5.76,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.25,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ja.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 6.02,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 5.9,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.24,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://lb.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 6.15,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.49,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://lad.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.5,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.16,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://li.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.17,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.58,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://lij.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.59,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.58,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://lmo.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.6,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.62,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://lld.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.63,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.7,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://mai.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.71,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.63,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://map-bms.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.64,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.62,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://lv.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.63,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.71,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://mhr.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.72,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.54,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://mg.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.56,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.79,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://min.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.81,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.46,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ml.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.48,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.45,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://mn.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.46,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.45,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://mni.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.46,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.45,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://mrj.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.47,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 1.97,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://mk.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 1.98,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.56,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ms.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.57,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 1.61,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://lt.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 1.62,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.1,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.23,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://my.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.34,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 1.72,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://nap.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 1.73,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.6,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ne.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.61,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.53,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://new.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.54,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.51,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://nds.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.52,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.7,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://mzn.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.71,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.08,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://nn.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.09,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.7,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://os.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.71,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.47,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://oc.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.49,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.54,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://pms.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.55,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.42,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://pam.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.43,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.49,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://or.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.5,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.58,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://nv.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.59,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.65,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://mr.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.67,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 4.84,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.61,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://pa.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 5.46,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.26,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ps.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.27,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.93,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://pnb.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.94,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.2,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://no.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.21,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.82,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://nl.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.83,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.89,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.34,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://pl.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 4.24,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.94,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.18,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://pt.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 4.12,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.7,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.51,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://qu.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 4.21,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.27,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://roa-rup.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.28,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.17,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ro.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.18,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.31,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://rue.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.33,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.32,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://sa.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.33,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.19,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://sk.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.2,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.07,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://sah.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.08,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.21,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://sh.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.22,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.12,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://shn.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.13,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.45,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://scn.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.47,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.25,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://sco.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.26,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.25,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://shi.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.26,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.56,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://sd.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.57,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.27,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ru.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.29,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.6,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.25,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://sl.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.86,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.19,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://smn.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.2,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 1.54,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://simple.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 1.55,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 4.17,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.28,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://si.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 4.46,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 4.96,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.19,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://skr.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 5.18,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 4.68,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://sn.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 4.69,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.28,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://sr.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.29,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.17,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://sq.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.18,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.25,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://sat.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.26,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 6.25,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.36,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://sw.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 6.62,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.45,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://tly.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.46,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.28,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ta.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.29,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.44,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://su.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.45,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.55,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://szl.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.56,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.5,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://tr.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.51,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.1,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://tt.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.11,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.86,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://tg.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.87,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.49,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://tum.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.5,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.19,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://sv.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.21,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.97,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.34,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://tl.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 4.32,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 4.15,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.31,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://th.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 4.46,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 4.5,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.21,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://te.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 4.72,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 4.95,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.39,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://uk.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 5.34,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.65,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://uz.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.66,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.26,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://ur.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.27,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.43,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://wa.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.44,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.95,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://wuu.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.96,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.94,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://war.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.95,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.97,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://vo.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.98,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.41,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://zh-min-nan.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.43,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.88,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://zh-yue.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.9,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.57,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.01,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://xmf.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.58,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.02,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://zgh.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.03,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 2.97,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://yi.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 2.98,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.03,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://vec.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.04,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.55,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://zu.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.56,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 1.95,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://yo.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 1.96,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.05,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.0,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://vi.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.06,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.67,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.26,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://zh-classical.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.95,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.4,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.15,
+                "action": "COMPLETE"
+            }
+        ]
+    },
+    "https://zh.wikipedia.org": {
+        "depth": null,
+        "actions": [
+            {
+                "status": "success",
+                "time_seconds": 3.56,
+                "action": "FETCH"
+            },
+            {
+                "status": "success",
+                "time_seconds": 3.12,
+                "action": "SCRAPE"
+            },
+            {
+                "status": "success",
+                "time_seconds": 0.35,
+                "action": "COMPLETE"
+            }
+        ]
+    }
+}
