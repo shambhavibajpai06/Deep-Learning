@@ -1,0 +1,11 @@
+19_Autonomous_Market_Analyst_Building_AI_Agents_for_Deep_Research
+
+# Assignment
+
+# Summarizing the report given by Agentic AI
+
+This report highlights the transformation and growth of the Artificial Intelligence industry. It enables high-quality visual and audio content from prompts and simplifies complex tasks in fields such as technology, marketing, business, education, and medicine. AI is increasingly integrated with machine learning models and algorithms. 
+
+Many tech giants, including OpenAI, Google, and Microsoft, are adopting it as the future of technology. However, the rise of agentic and generative AI also brings ethical and societal risks that must be addressed.
+
+
