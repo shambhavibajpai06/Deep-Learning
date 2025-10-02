@@ -1,0 +1,9 @@
+Searched Duckduckgo for 'Show HN'
+
+---
+
+Clicked element
+
+---
+
+The number 1 post on Show HN is: "Show HN: Autism Simulator"
